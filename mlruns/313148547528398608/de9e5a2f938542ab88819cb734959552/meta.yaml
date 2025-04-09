@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/atish/Desktop/MLflow%20Experiment/mlflowexperiment/mlruns/313148547528398608/de9e5a2f938542ab88819cb734959552/artifacts
+end_time: 1744209854945
+entry_point_name: ''
+experiment_id: '313148547528398608'
+lifecycle_stage: active
+run_id: de9e5a2f938542ab88819cb734959552
+run_name: nosy-ox-622
+run_uuid: de9e5a2f938542ab88819cb734959552
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744209836715
+status: 3
+tags: []
+user_id: atish

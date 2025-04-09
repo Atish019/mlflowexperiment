@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/atish/Desktop/MLflow%20Experiment/mlflowexperiment/mlruns/178382205361408981/ce6c48dffbce441b82b036e9930fa95f/artifacts
+end_time: 1744209952979
+entry_point_name: ''
+experiment_id: '178382205361408981'
+lifecycle_stage: active
+run_id: ce6c48dffbce441b82b036e9930fa95f
+run_name: sneaky-finch-674
+run_uuid: ce6c48dffbce441b82b036e9930fa95f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744209944679
+status: 3
+tags: []
+user_id: atish

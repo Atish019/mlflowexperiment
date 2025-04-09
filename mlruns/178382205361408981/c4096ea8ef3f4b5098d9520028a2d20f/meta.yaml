@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/atish/Desktop/MLflow%20Experiment/mlflowexperiment/mlruns/178382205361408981/c4096ea8ef3f4b5098d9520028a2d20f/artifacts
+end_time: 1744210212897
+entry_point_name: ''
+experiment_id: '178382205361408981'
+lifecycle_stage: active
+run_id: c4096ea8ef3f4b5098d9520028a2d20f
+run_name: thundering-shoat-49
+run_uuid: c4096ea8ef3f4b5098d9520028a2d20f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744210204057
+status: 3
+tags: []
+user_id: atish

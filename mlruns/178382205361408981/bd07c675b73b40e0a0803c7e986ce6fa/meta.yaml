@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/atish/Desktop/MLflow%20Experiment/mlflowexperiment/mlruns/178382205361408981/bd07c675b73b40e0a0803c7e986ce6fa/artifacts
+end_time: 1744210110740
+entry_point_name: ''
+experiment_id: '178382205361408981'
+lifecycle_stage: active
+run_id: bd07c675b73b40e0a0803c7e986ce6fa
+run_name: flawless-robin-90
+run_uuid: bd07c675b73b40e0a0803c7e986ce6fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744210102916
+status: 3
+tags: []
+user_id: atish

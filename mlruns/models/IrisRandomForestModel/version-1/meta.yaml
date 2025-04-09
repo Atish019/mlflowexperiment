@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1744210482871
+current_stage: None
+description: null
+last_updated_timestamp: 1744210482871
+name: IrisRandomForestModel
+run_id: 2395f98a58a54bafada97fb1465332fd
+run_link: null
+source: file:///C:/Users/atish/Desktop/MLflow%20Experiment/mlflowexperiment/mlruns/178382205361408981/2395f98a58a54bafada97fb1465332fd/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/atish/Desktop/MLflow%20Experiment/mlflowexperiment/mlruns/178382205361408981/2395f98a58a54bafada97fb1465332fd/artifacts/model
+user_id: null
+version: 1

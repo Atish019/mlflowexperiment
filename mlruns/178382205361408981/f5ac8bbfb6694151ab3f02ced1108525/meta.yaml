@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/atish/Desktop/MLflow%20Experiment/mlflowexperiment/mlruns/178382205361408981/f5ac8bbfb6694151ab3f02ced1108525/artifacts
+end_time: 1744210633575
+entry_point_name: ''
+experiment_id: '178382205361408981'
+lifecycle_stage: active
+run_id: f5ac8bbfb6694151ab3f02ced1108525
+run_name: glamorous-stork-614
+run_uuid: f5ac8bbfb6694151ab3f02ced1108525
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744210625090
+status: 3
+tags: []
+user_id: atish

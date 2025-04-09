@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/atish/Desktop/MLflow%20Experiment/mlflowexperiment/mlruns/178382205361408981/2395f98a58a54bafada97fb1465332fd/artifacts
+end_time: 1744210232898
+entry_point_name: ''
+experiment_id: '178382205361408981'
+lifecycle_stage: active
+run_id: 2395f98a58a54bafada97fb1465332fd
+run_name: bedecked-grub-271
+run_uuid: 2395f98a58a54bafada97fb1465332fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744210224273
+status: 3
+tags: []
+user_id: atish

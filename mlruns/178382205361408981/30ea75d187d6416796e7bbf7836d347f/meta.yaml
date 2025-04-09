@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/atish/Desktop/MLflow%20Experiment/mlflowexperiment/mlruns/178382205361408981/30ea75d187d6416796e7bbf7836d347f/artifacts
+end_time: 1744209938462
+entry_point_name: ''
+experiment_id: '178382205361408981'
+lifecycle_stage: active
+run_id: 30ea75d187d6416796e7bbf7836d347f
+run_name: dazzling-robin-294
+run_uuid: 30ea75d187d6416796e7bbf7836d347f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744209930386
+status: 3
+tags: []
+user_id: atish
